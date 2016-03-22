@@ -9,4 +9,3 @@ Currently helping out with a friend's website
 * HTML5
 * CSS3
 * Skeleton framework
-=======
