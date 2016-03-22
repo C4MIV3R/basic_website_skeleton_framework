@@ -1,0 +1,74 @@
+/* Sections
+-------------------------------------- */
+.section {
+  padding: 4rem 0 4rem;
+  text-align: center; }
+
+.section-heading,
+.section-description {
+  margin-bottom: 1.2rem; }
+
+/* Navigation menu
+-------------------------------------- */
+#header {
+  background-color: rgba(96, 99, 99, 0.4); }
+  #header .navName {
+    float: left;
+    list-style: none; }
+    #header .navName .navItem {
+      display: inline-block;
+      text-decoration: none;
+      margin-top: 10px; }
+    #header .navName a {
+      color: #0a64c8;
+      text-decoration: none; }
+    #header .navName a:hover {
+      color: #3baf1f; }
+  #header ul {
+    margin-bottom: 5px; }
+  #header .navMenu {
+    float: right;
+    list-style: none; }
+    #header .navMenu .navItem {
+      display: inline-block;
+      text-decoration: none;
+      margin-right: 20px;
+      margin-top: 10px; }
+    #header .navMenu a {
+      color: #0a64c8;
+      text-decoration: none; }
+    #header .navMenu a:hover {
+      color: #3baf1f; }
+
+/* Home
+------------------------------------------ */
+/* About
+------------------------------------------ */
+.about {
+  background-color: rgba(10, 100, 200, 0.6); }
+
+/* Gallery
+----------------------------------------- */
+.gallery .four.columns {
+  border-right: 1px solid black; }
+.gallery .four.columns:last-child {
+  border-right: none; }
+
+/* Contact Map
+---------------------------------------- */
+.contactMap {
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  height: 40rem; }
+  .contactMap iframe {
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 70%;
+    height: 100%; }
+
+/*  Media Queries
+----------------------------------------- */
+
+/*# sourceMappingURL=stylesheet.css.map */
