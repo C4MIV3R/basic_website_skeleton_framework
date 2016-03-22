@@ -68,6 +68,12 @@
     width: 70%;
     height: 100%; }
 
+#footer .footerSocial {
+  list-style: none; }
+  #footer .footerSocial li {
+    display: inline-block;
+    text-decoration: none; }
+
 /*  Media Queries
 ----------------------------------------- */
 

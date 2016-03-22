@@ -89,6 +89,18 @@
     height: 100%;
   }
 }
+#footer {
+  .footerSocial {
+    list-style: none;
+      li {
+        display: inline-block;
+        text-decoration: none;
+        a {
+        }
+      }
+  }
+}
+
 
 /*  Media Queries
 ----------------------------------------- */
