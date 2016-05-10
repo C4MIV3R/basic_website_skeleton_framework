@@ -1,9 +1,7 @@
 # Skeleton website theme
-### website layout/mockup for a friend's company
----
-### Working on a friend's website
-Currently helping out with a friend's website
-* will update as I work on the overall theme
+
+### Working on a basic framework for a website
+* Will update as I work on the overall theme
 
 ### Tech used
 * HTML5
